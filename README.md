@@ -6,7 +6,7 @@ Discover over 1,000,000 recipes, upload your own, and bookmark favorites. Custom
 
 ## Demo
 
-forkify-ten-omega.vercel.app
+[forkify-ten-omega.vercel.app](https://forkify-ten-omega.vercel.app/)
 
 
 ## App flow
